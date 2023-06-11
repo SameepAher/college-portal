@@ -10,7 +10,7 @@ const setFaculty = (data) => {
     }
 }
 
-const url = "http://localhost:5000"
+const url = process.env.REACT_APP_PUBLIC_API_URL
 
 const fetchStudentsHelper = (data) => {
     return {
