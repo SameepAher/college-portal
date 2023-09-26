@@ -16,7 +16,7 @@
     "datauri": "^3.0.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "gravatar": "^1.8.1",
+    "gravatar": "^1.8.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.27",
     "morgan": "^1.10.0",
